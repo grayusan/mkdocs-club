@@ -1,0 +1,10 @@
+site_name: My Docs
+
+nav:
+    - Home: index.md
+    - Clubs:
+        - Chess: user-guide/chess.md
+        - Syougi: user-guide/syougi.md
+theme:
+  name: 'material'
+  language: 'en'
